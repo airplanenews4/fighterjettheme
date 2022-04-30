@@ -1,0 +1,66 @@
+/**
+ * @name Planeeeeeeee
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.ytimg.com/vi/Khn7M3-4UQc/maxresdefault.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: auto;
+  --background-image-position: center;
+  --popout-modal-image: url('https://www.defensenews.com/resizer/cT-C6N7AQDgq85krF7x86sYA0-o=/1024x0/filters:format(jpg):quality(70)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/322GJN6RZFEFBB74Y43PS7TPUI.jpg');
+  --popout-modal-blur: 0px;
+  --popout-modal-size: auto;
+  --popout-modal-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.3;
+  --left-brightness: 0.52;
+  --middle-brightness: 0.44;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.68;
+  --gradient-primary: 103,58,183;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 200deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Roboto;
+  --window-padding: 13px;
+  --window-roundness: 18px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
